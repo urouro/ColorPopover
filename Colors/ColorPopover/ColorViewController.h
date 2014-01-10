@@ -22,6 +22,7 @@
 
 @property (nonatomic, strong) NSArray *colorCollection;
 @property (nonatomic, weak) id <ColorViewControllerDelegate> delegate;
+@property (nonatomic, strong) UIScrollView *scrollView;
 
 @end
 

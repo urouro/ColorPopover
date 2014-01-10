@@ -9,7 +9,6 @@
 #import "ColorViewController.h"
 
 @interface ColorViewController ()
-@property (nonatomic, strong) UIScrollView* scrollView;
 @property (nonatomic, strong) NSArray* colorButtons;
 @end
 
